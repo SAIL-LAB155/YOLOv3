@@ -34,3 +34,8 @@ detect.py
 /media/hkuit164/TOSHIBA/YOLOv3/data/basket/JPEGImages/
 --view-img
 '''
+
+'''
+convert pth to weights
+python3 models.py
+'''
